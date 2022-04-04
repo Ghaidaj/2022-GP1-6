@@ -5,4 +5,4 @@ Help app provide a solution that assists the user in his emergencies as quickly 
 We are using Dart language 
 # Lunching requirments:
 Flutter SDK.
-it is developed for android enviroment.
+it is developed for android environment.
